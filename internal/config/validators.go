@@ -1,4 +1,4 @@
-package config
+package config 
 
 type RootFolder struct {
 	AllowedFiles []string `mapstructure:"allowed_files,omitempty"`
